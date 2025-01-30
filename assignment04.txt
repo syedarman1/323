@@ -1,0 +1,15 @@
+random points 20 [(-8, 3), (3, -6), (8, 1), (10, 1), (-9, -7), (-4, 2), (3, -6), (1, 9), (-7, 9), (-7, 4), (3, -7), (-2, 3), (-3, -9), (-3, 8), (9, -8), (-8, -4), (-7, 1), (2, 4), (-10, -7), (10, -3)]
+sorted points 20 [(10, 1), (8, 1), (2, 4), (1, 9), (-3, 8), (-2, 3), (-7, 9), (-7, 4), (-4, 2), (-8, 3), (-7, 1), (-8, -4), (-10, -7), (-9, -7), (-3, -9), (3, -7), (3, -6), (3, -6), (9, -8), (10, -3)]
+convex hull points 7 [[-7.0, 9.0], [-10.0, -7.0], [-3.0, -9.0], [9.0, -8.0], [10.0, -3.0], [10.0, 1.0], [1.0, 9.0]]
+area of convex hull 283.5
+area of sorted points polygon 219.0
+perimeter of convex hull 64.741
+perimeter of sorted points polygon 84.582
+is convex hull equable False
+is sorted points polygon equable False
+closest pair of points random (((3, -6), (3, -6)), 0.0)
+closest pair of points sorted (((3, -6), (3, -6)), 0.0)
+closest pair of points convex hull (([10.0, -3.0], [10.0, 1.0]), 4.0)
+farthest pair of points random (((-7, 9), (9, -8)), 23.345)
+farthest pair of points sorted (((-7, 9), (9, -8)), 23.345)
+farthest pair of points convex hull (([-7.0, 9.0], [9.0, -8.0]), 23.345)
