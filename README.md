@@ -23,12 +23,11 @@ graph = {
 shortest_path = dijkstra(graph, 'A', 'D')
 print(shortest_path)
 Features
-Implementation of various graph algorithms
-Easy-to-understand code structure
-Well-documented functions for each algorithm
+📚 Implementation of various graph algorithms
+🧩 Easy-to-understand code structure
+📝 Well-documented functions for each algorithm
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
-This project was inspired by the need for a clear and concise implementation of graph algorithms.
-Special thanks to contributors and open-source projects that helped in the development of this project.
+This project was inspired by the need for a clear and concise implementation of graph algorithms. Special thanks to contributors and open-source projects that helped in the development of this project.
