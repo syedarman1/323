@@ -31,8 +31,5 @@ shortest_path = dijkstra(graph, 'A', 'D')
 print(shortest_path)
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
-This project was inspired by the need for a clear and concise implementation of graph algorithms. Special thanks to contributors and open-source projects that helped in the development of this project.
+LT
