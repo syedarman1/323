@@ -2,6 +2,10 @@ Algorithms + Graphs
 Description
 This project focuses on the implementation of various algorithms related to graphs. It includes algorithms for graph traversal, shortest path finding, minimum spanning tree, and more.
 
+Features
+📚 Implementation of various graph algorithms
+🧩 Easy-to-understand code structure
+📝 Well-documented functions for each algorithm
 Installation
 There is no specific installation process required for this project. Simply clone the repository to your local machine to access the source code.
 
@@ -22,12 +26,8 @@ graph = {
 
 shortest_path = dijkstra(graph, 'A', 'D')
 print(shortest_path)
-Features
-📚 Implementation of various graph algorithms
-🧩 Easy-to-understand code structure
-📝 Well-documented functions for each algorithm
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+Acknowledgments
 This project was inspired by the need for a clear and concise implementation of graph algorithms. Special thanks to contributors and open-source projects that helped in the development of this project.
